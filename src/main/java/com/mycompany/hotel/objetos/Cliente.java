@@ -1,6 +1,7 @@
 package com.mycompany.hotel.objetos;
 
 public class Cliente {
+
     public int idCliente;
     public String nombre;
     public String apellidos;
